@@ -1,3 +1,7 @@
+### Link for Preview
+
+https://netflix-e2485.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -66,5 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
+
+**Screenshots**
+![Screenshot (544)](https://user-images.githubusercontent.com/67712163/125159683-7ccbb100-e196-11eb-916e-6aa28637c0e7.png)
+![Screenshot (547)](https://user-images.githubusercontent.com/67712163/125159686-7e957480-e196-11eb-9449-ae38f089704f.png)
+![Screenshot (545)](https://user-images.githubusercontent.com/67712163/125159687-7fc6a180-e196-11eb-8770-14b4a7eeaec3.png)
+![Screenshot (548)](https://user-images.githubusercontent.com/67712163/125159688-80f7ce80-e196-11eb-93fa-6872046f45f0.png)
+![Screenshot (546)](https://user-images.githubusercontent.com/67712163/125159689-8228fb80-e196-11eb-91ba-d5729d182c3b.png)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
