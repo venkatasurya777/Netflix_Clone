@@ -1,4 +1,4 @@
-### Link for Preview
+### Deployed Link for Preview
 
 https://netflix-e2485.web.app/
 
