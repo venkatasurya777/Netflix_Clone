@@ -1,5 +1,5 @@
 
-## <a href="https://netflix-e2485.web.app/" target="_blank">DEPLOYED LIVE LINK</a>
+## <a href="https://netflix-e2485.web.app/" target="_blank">DEPLOYED LIVE DEMO LINK</a>
 
 
 
